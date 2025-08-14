@@ -1,0 +1,9 @@
+bu program Yasin Halit Karayağız hocamızın youtube kanalında yayınladığı orman yangını önleyici ders videosundan öğrenme aşamasında aldığım notlar ile yazılmış ders içeriğidir .
+
+
+ders 1 alev radari sanal ortamını oluşturma 
+conda promtu aç 
+conda create --name alev_radari python=3.10 -c conda-forge   komutu ile dosyayı oluştur 
+
+conda activate alev_radari ile dosyayya gir 
+conda install requests ile kütüphaneyi yükle 
