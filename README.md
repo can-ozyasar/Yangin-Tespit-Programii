@@ -2,11 +2,25 @@
 
 Alev/yangın tespiti fikri üzerine hazırlanmış görüntü analizi notebook çalışması.
 
-## Öne Çıkanlar
+## Bu Repo Ne İçin Var?
+Yangın/alev tespiti fikrini görüntü analizi üzerinden denemek için oluşturuldu.
+
+Bu README'nin amacı; repoya ilk kez gelen birinin projenin neden açıldığını, içinde ne bulunduğunu ve nereden başlaması gerektiğini hızlıca anlamasını sağlamaktır.
+
+## İçerik ve Kapsam
+Bu repoda öne çıkan içerikler şunlardır:
 - Yangın/alev algılama senaryosu
 - Notebook tabanlı deney akışı
 - Görüntü işleme ve sınıflandırma yaklaşımına uygun yapı
-- Kullanılan ana teknolojiler: HTML, Jupyter Notebook
+- Jupyter Notebook dosyalarıyla adım adım deney/analiz akışı
+- Tarayıcıda incelenebilen HTML arayüz dosyaları
+
+## Kimler İçin Faydalı?
+Veri bilimi/makine öğrenmesi pratiği yapmak, notebook akışını takip etmek veya benzer bir analiz kurmak isteyenler için uygundur.
+
+## Kullanılan Teknolojiler
+- HTML
+- Jupyter Notebook
 
 ## Çalıştırma
 ```bash
